@@ -1,1 +1,1 @@
-# Clojure-Koans-Solutions-By-Jim
+# Clojure Koans Solutions By Jim
